@@ -16,6 +16,21 @@ It is built using Python and the Pillow library.<br>
 ▫️ Pillow library<br>
 ▫️ Tkinter (usually included with Python)<br>
 
+## Installation
+
+Install the required library to import PIL<br>
+
+    pip install pillow 
+
+## Usage
+
+ 1. Run the script:<br>
+
+        python main.py
+    
+2. A file dialog will appear. Select the image you want to compress.<br>
+3. Another file dialog will appear to save the compressed image. Enter the desired file name and save it.<br>
+
 ## Configuration
 
 The compression script is currently configured to use the <code>LANCZOS</code> filter for resizing, which provides high-quality results.<br>
@@ -30,5 +45,5 @@ The compression script is currently configured to use the <code>LANCZOS</code> f
 
 ▫️ **Python Programming**: Utilized Python for scripting and automation.<br>
 ▫️ **Image Processing**: Gained experience with the Pillow library for handling and manipulating images.<br>
-▫️ **Graphical User Interface (GUI)**: Used tkinter for file dialogs to enhance user interaction.<br>
+▫️ **Graphical User Interface (GUI)**: Used <code>tkinter</code> for file dialogs to enhance user interaction.<br>
 
