@@ -4,7 +4,7 @@
 This project compresses images to reduce their file size while maintaining an acceptable level of quality. It's perfect for optimizing images for the web or saving storage space.
 It is built using Python and the Pillow library.<br>
 
-## Features 
+## Features 📄
 
 ▫️ **Image Compression**: Efficiently reduces file size of images while retaining quality.<br>
 ▫️ **Multiple Formats Support**: Handles various image formats including JPEG and PNG.<br>
