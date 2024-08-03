@@ -1,4 +1,15 @@
 # 🖼️ Image Compressor
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features-)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Project Structure](#project-structure)
+- [Learnings and Skills](#learnings-and-skills)
+
 ## Description 
 
 This project compresses images to reduce their file size while maintaining an acceptable level of quality. It's perfect for optimizing images for the web or saving storage space.
