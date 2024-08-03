@@ -13,7 +13,7 @@
 ## Description 
 
 This project compresses images to reduce their file size while maintaining an acceptable level of quality. It's perfect for optimizing images for the web or saving storage space.
-It is built using Python and the Pillow library.<br>
+It is built using Python and the <code>PIL</code> library.<br>
 
 ## Features 📄
 
