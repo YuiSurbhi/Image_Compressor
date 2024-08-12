@@ -49,7 +49,7 @@ The compression script is currently configured to use the <code>LANCZOS</code> f
 ## Project Structure
 
       image-compressor/
-       ├── compress.py          # Main script for image compression
+       ├── main.py              # Main script for image compression
        └── README.md            # Project documentation
 
 ## Learnings and Skills
