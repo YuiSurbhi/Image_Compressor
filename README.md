@@ -10,7 +10,7 @@
 - [Project Structure](#project-structure)
 - [Learnings and Skills](#learnings-and-skills)
 
-## Description 
+## Description 📝
 
 This project compresses images to reduce their file size while maintaining an acceptable level of quality. It's perfect for optimizing images for the web or saving storage space.
 It is built using Python and the <code>PIL</code> library.<br>
@@ -21,19 +21,19 @@ It is built using Python and the <code>PIL</code> library.<br>
 ▫️ **Multiple Formats Support**: Handles various image formats including JPEG and PNG.<br>
 ▫️ **Cross-platform**: Works on Windows, macOS, and Linux.<br>
 
-## Requirements
+## Requirements 🖥️
 
 ▫️ Python 3.x<br>
 ▫️ Pillow library<br>
 ▫️ Tkinter (usually included with Python)<br>
 
-## Installation
+## Installation 🚀
 
 Install the required library to import PIL<br>
 
     pip install pillow 
 
-## Usage
+## Usage 🔍
 
  1. Run the script:<br>
 
@@ -42,17 +42,17 @@ Install the required library to import PIL<br>
 2. A file dialog will appear. Select the image you want to compress.<br>
 3. Another file dialog will appear to save the compressed image. Enter the desired file name and save it.<br>
 
-## Configuration
+## Configuration 🔧
 
 The compression script is currently configured to use the <code>LANCZOS</code> filter for resizing, which provides high-quality results.<br>
 
-## Project Structure
+## Project Structure 📁
 
       image-compressor/
        ├── main.py              # Main script for image compression
        └── README.md            # Project documentation
 
-## Learnings and Skills
+## Learnings and Skills 📘
 
 ▫️ **Python Programming**: Utilized Python for scripting and automation.<br>
 ▫️ **Image Processing**: Gained experience with the Pillow library for handling and manipulating images.<br>
